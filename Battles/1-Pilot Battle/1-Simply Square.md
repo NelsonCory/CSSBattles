@@ -2,6 +2,7 @@
 
 ## Image 
 
+![Screenshot of output of my code alongside the target image the code is attempting to match.](https://github.com/NelsonCory/CSSBattles/blob/main/Battles/1-Pilot%20Battle/Images/1_simply_square.png)
 
 ## Stats
 
